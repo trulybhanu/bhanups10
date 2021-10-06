@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhanups10
 - 👀 I’m interested in exploring the opportunities that can create impact
-- 🌱 I’m currently learning fullstack web dev skills
+- 🌱 I’m currently learning fullstack web development skills
 - 📫 You can reach out to me using linkedin.com/in/bhanups10
 
 <!---
