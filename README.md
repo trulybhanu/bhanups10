@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhanu
-- 👀 I’m interested in exploring the opportunities that can create impact
+- 👀 I’m interested in exploring the opportunities that create impact
 - 🌱 I’m currently learning fullstack web development skills
 - 📫 You can reach out to me using linkedin.com/in/bhanups10
 
