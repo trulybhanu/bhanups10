@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanu
 - 👀 I’m interested in exploring the opportunities that create impact
-- 🌱 I’m currently learning fullstack web development skills (MERN Stack)
+- 🌱 I’m currently learning fullstack web development (MERN Stack)
 - 📫 You can reach out to me using linkedin.com/in/bhanups10
 
 <!---
