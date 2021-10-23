@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on programming skills.
 - 🌱 I’m currently learning fullstack web development using MERN stack.
 - 👀 I’m interested in exploring the opportunities that create impact
-- 📫 You can reach out to me using &nbsp; <a href="https://linkedin.com/in/bhanups10" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Bhanu Pratap" height="21" width="21" /></a> &nbsp;<a href="https://twitter.com/bhanups10" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="Bhanu Pratap" height="32" width="32" /></a> &nbsp;
+- 📫 You can reach out to me using &nbsp; <a href="https://linkedin.com/in/bhanups10" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Bhanu Pratap" height="21" width="21" /></a> &nbsp;<a href="https://twitter.com/bhanups10" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="Bhanu Pratap" height="31" width="31" /></a> &nbsp;
 <br/> 
 
 <!---
